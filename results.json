@@ -1,0 +1,13 @@
+{
+    "10": {
+      "Science": {
+        "101": { "name": "Rahul", "marks": [{ "name": "Math", "marks": 95 }, { "name": "Science", "marks": 90 }] },
+        "102": { "name": "Anjali", "marks": [{ "name": "Math", "marks": 85 }, { "name": "Science", "marks": 88 }] }
+      }
+    },
+    "12": {
+      "Commerce": {
+        "201": { "name": "Sohan", "marks": [{ "name": "Accountancy", "marks": 80 }, { "name": "Economics", "marks": 85 }] }
+      }
+    }
+  }
